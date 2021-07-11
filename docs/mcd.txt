@@ -1,0 +1,3 @@
+TASK: title, completion, status, created_at, updated_at
+belongs to, 11 TASK, 0N CATEGORY
+CATEGORY: name, status, created_at, updated_at
